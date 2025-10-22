@@ -182,7 +182,6 @@ is_male = False
 if is_male:
     print("I AM A MALE") #it won't print anything bcz the condition is wrong
 
-
 is_male = True
 if is_male:
     print("I AM A MALE") 
@@ -237,7 +236,6 @@ else:
 
 # defining functions using if and else and elif (else if)
 
-
 def max(x,y,z):
     if x>y and x>z:
         print(x)
@@ -246,7 +244,6 @@ def max(x,y,z):
     elif z>x and z>y: 
         print(z)
 max(45,90,1)
-
 
 
 def max(x,y,z):
