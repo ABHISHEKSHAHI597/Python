@@ -31,7 +31,7 @@ last_name = input()
 def print_full_name(first, last):
     # Write your code here
     print("Hello "+ first_name + " " + last_name + "! " + "You just delved into python.")
-print_full_name(first_name,last_name))
+print_full_name(first_name,last_name)
 
 
 
